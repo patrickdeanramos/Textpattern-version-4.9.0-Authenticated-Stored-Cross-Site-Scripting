@@ -6,6 +6,7 @@ Reproduction:<br>
 2. Navigate to 'Content > Write'.<br>
 3. In the body parameter, enter the XSS payload: '<xss onfocus=alert('XSS') autofocus tabindex=1>'. Finally, Click 'Save'.<br>
 4. Verify that the script was triggered by visiting 'My Site'.<br>
+  ![alt text](https://github.com/patrickdeanramos/Textpattern-version-4.9.0-Authenticated-Stored-Cross-Site-Scripting/blob/main/XSS-Textpattern.png?raw=True)
 
 Authors:<br>
 Patrick Dean Ramos<br>
