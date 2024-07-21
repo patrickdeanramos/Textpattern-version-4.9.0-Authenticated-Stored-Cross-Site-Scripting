@@ -13,3 +13,5 @@ Nathu Nandwani<br>
 Junnair Manla<br>
 Kevin Rosales<br>
 Steve Nyan<br>
+Shanavas Shakeer<br>
+Lani Lambert<br>
